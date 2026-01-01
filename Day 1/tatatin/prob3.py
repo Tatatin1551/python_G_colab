@@ -1,0 +1,5 @@
+pp = input()
+v1,v2 = pp.split()
+v1 = int(v1)
+v2 = int(v2)
+print(f"{v1} + {v2} = {v1+v2}\n{v1} * {v2} = {v1*v2}\n{v1} - {v2} = {v1-v2}")
