@@ -1,7 +1,7 @@
 # \# python_G_colab
 learning / practicing python in google colabotary. And transitioning into the AI career path.
 
-### \# Concepts
+### \# Concepts to Learn
 - Algorithms (Especially, Number Theory)
 
 
